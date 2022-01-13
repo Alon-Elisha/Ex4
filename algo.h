@@ -11,7 +11,7 @@
 */
 
 typedef struct Graph_ {
-    edge* edge_array;
+    //edge* edge_array;
     node* node_array;
 } graph;
 
