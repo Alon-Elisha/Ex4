@@ -186,6 +186,10 @@ int main()
       }
       printf("the node %d has been erased\n", node_num);
     }
+    if(command_letter == '\n')
+    {
+       flag = false;
+    }
 
 
 
